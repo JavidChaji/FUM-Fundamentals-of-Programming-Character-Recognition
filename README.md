@@ -30,9 +30,9 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 [contributors-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/network/members
 
 
 <!-- Stars -->
