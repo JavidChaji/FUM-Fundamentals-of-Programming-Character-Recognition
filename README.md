@@ -42,9 +42,9 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/issues
+[issues-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/issues
 
 
 <!-- License -->
