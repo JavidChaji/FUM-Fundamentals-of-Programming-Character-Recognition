@@ -48,9 +48,9 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/blob/master/LICENSE
 
 
 <!-- Linkedin -->
