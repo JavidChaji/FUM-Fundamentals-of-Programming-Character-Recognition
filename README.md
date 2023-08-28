@@ -36,9 +36,9 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/stargazers
 
 
 <!-- Issues -->
