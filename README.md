@@ -25,30 +25,30 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
 [contributors-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
 [forks-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
 [stars-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
 [issues-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
 [license-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/blob/master/LICENSE
 
