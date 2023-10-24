@@ -53,7 +53,9 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
+
+Technologies and Tools Utilized in this Project
 
 - [![C][C-Shield]][C-url]
 
