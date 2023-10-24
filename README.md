@@ -55,7 +55,7 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![C][C.iso]][C-url]
+- [![C][C-Shield]][C-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,5 +159,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[C.iso]: https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white
+<!-- C -->
+[C-Shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
 [C-url]: https://www.iso.org/standard/74528.html
