@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # Picture-Letter-Detector
 
@@ -57,7 +57,7 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 Technologies and Tools Utilized in this Project
 
-- [![C][C-Shield]][C-url]
+- [![C][C-Shield]][C-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,10 +158,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
 <!-- C -->
 [C-Shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
-[C-url]: https://www.iso.org/standard/74528.html
+[C-URL]: https://www.iso.org/standard/74528.html
