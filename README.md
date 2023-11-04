@@ -2,14 +2,14 @@
 
 
 [![Contributors][Contributors-Shield]][Contributors-URL]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
+[![LinkedIn][Linkedin-Shield]][Javid-Linkedin-URL]
 
 # Picture-Letter-Detector
 
@@ -127,38 +127,38 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/blob/master/LICENSE
+[License-URL]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/blob/master/LICENSE
 
 
 <!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
+[Javid-Linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
 <!-- C -->
