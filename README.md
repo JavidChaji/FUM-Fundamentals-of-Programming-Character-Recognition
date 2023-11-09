@@ -1,13 +1,10 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -18,7 +15,6 @@ A Simple Optical Character Recognition (OCR)
 Ferdowsi University of Mashhad Fundamentals of Programming Character Recognition
 
 in this project we have these A, B, E, I, O, R, S Character pictures and we want to find this Characters in other pictures by painting them and at the same time Writing equivalent charachter in console
-
 
 
 
@@ -50,7 +46,6 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
 
 
 
-
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -60,8 +55,6 @@ Technologies and Tools Utilized in this Project
 - [![C][C-Shield]][C-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
@@ -91,6 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <!-- CONTACT -->
 ## Contact
 
@@ -99,7 +93,6 @@ Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 Project Link: [https://github.com/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition](https://github.com/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -118,7 +111,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
