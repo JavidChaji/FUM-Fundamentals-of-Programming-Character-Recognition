@@ -14,8 +14,6 @@ A Simple Optical Character Recognition (OCR)
 
 Ferdowsi University of Mashhad Fundamentals of Programming Character Recognition
 
-in this project we have these A, B, E, I, O, R, S Character pictures and we want to find this Characters in other pictures by painting them and at the same time Writing equivalent charachter in console
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -43,6 +41,13 @@ in this project we have these A, B, E, I, O, R, S Character pictures and we want
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+in this project we have these A, B, E, I, O, R, S Character pictures and we want to find this Characters in other pictures by painting them and at the same time Writing equivalent charachter in console
 
 
 
@@ -122,6 +127,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Fundamentals-of-Programming-Character-Recognition/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/JavidChaji/FUM-Fundamentals-of-Programming-Character-Recognition.svg?style=for-the-badge
